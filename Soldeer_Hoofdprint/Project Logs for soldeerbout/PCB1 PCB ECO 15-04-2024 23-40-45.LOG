@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=T6 Old Footprint=INF-SOT23_L New Footprint=INF-SOT23_L
+Added Pin To Net: NetName=GND Pin=C3-2

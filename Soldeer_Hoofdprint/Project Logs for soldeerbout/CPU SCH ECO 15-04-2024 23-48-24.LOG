@@ -1,0 +1,8 @@
+Change Component Comment: Designator=TP1 Old Comment=testpunt New Comment=TP?
+Change Component Comment: Designator=TP2 Old Comment=Testpunt New Comment=TP?
+Change Component Comment: Designator=TP3 Old Comment=testpunt New Comment=TP?
+Change Component Comment: Designator=TP4 Old Comment=testpunt New Comment=TP?
+Change Component Designator: OldDesignator=TP1 NewDesignator=testpunt1
+Change Component Designator: OldDesignator=TP2 NewDesignator=testpunt2
+Change Component Designator: OldDesignator=TP3 NewDesignator=testpunt3
+Change Component Designator: OldDesignator=TP4 NewDesignator=testpunt4

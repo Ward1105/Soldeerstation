@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=T6 Old Footprint=INF-SOT23_L New Footprint=INF-SOT23_L
+Change Component Designator: OldDesignator=F1 NewDesignator= 
+Change Component Designator: OldDesignator=R19 NewDesignator= R19
+Change Component Designator: OldDesignator=testpunt2 NewDesignator=TP2
+Change Component Designator: OldDesignator=testpunt3 NewDesignator=TP3
+Change Pin Designator/Name:  Old Designator=U2-4 Old Name=4 New Designator =5 New Name=5
+Change Pin Designator/Name:  Old Designator=U2-5 Old Name=5 New Designator =4 New Name=4
